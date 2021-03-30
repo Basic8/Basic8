@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨‍💻 I like computers
+👨‍💻 I like computers and coding in general
 
 🔭 I’m currently working on Some Lua Stuff
 
