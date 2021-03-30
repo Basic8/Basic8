@@ -8,5 +8,5 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: My Username is Basic8 because Basic88 is taken 😕
+⚡ Fun fact: I started coding when my friend was watching an animation on Scratch!
 
